@@ -14,6 +14,8 @@
 		F0C3A29121657E340060B02A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F0C3A28F21657E340060B02A /* LaunchScreen.storyboard */; };
 		F0C3A29C21657E340060B02A /* DrawingApp_Lab3_v3Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0C3A29B21657E340060B02A /* DrawingApp_Lab3_v3Tests.swift */; };
 		F0C3A2A721657E340060B02A /* DrawingApp_Lab3_v3UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0C3A2A621657E340060B02A /* DrawingApp_Lab3_v3UITests.swift */; };
+		F0C3A2B521657E410060B02A /* Line.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0C3A2B421657E410060B02A /* Line.swift */; };
+		F0C3A2B721657E6B0060B02A /* LineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0C3A2B621657E6B0060B02A /* LineView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		F0C3A2A221657E340060B02A /* DrawingApp-Lab3_v3UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DrawingApp-Lab3_v3UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0C3A2A621657E340060B02A /* DrawingApp_Lab3_v3UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingApp_Lab3_v3UITests.swift; sourceTree = "<group>"; };
 		F0C3A2A821657E340060B02A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F0C3A2B421657E410060B02A /* Line.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Line.swift; sourceTree = "<group>"; };
+		F0C3A2B621657E6B0060B02A /* LineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LineView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				F0C3A28D21657E340060B02A /* Assets.xcassets */,
 				F0C3A28F21657E340060B02A /* LaunchScreen.storyboard */,
 				F0C3A29221657E340060B02A /* Info.plist */,
+				F0C3A2B421657E410060B02A /* Line.swift */,
+				F0C3A2B621657E6B0060B02A /* LineView.swift */,
 			);
 			path = "DrawingApp-Lab3_v3";
 			sourceTree = "<group>";
@@ -256,6 +262,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0C3A2B721657E6B0060B02A /* LineView.swift in Sources */,
+				F0C3A2B521657E410060B02A /* Line.swift in Sources */,
 				F0C3A28921657E330060B02A /* ViewController.swift in Sources */,
 				F0C3A28721657E330060B02A /* AppDelegate.swift in Sources */,
 			);
