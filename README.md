@@ -28,4 +28,5 @@ It is a simple drawing app.
 > ![](3_2.gif)
 >  
 > The following demo shows the opening feature of the app.  
+>  
 > ![](3_3.gif)  
