@@ -9,7 +9,7 @@ It is a simple drawing app.
 # # Features
   - Users can draw continuous and smooth lines by tapping and dragging.
   - Users can “undo” to erase the previous line drawn. 
-  - Users can use multiple color and change thickness of the line.
+  - Users can use multiple colors and change the thickness of the line.
   - Users can clear the screen.
   - Users can open an image from the photo library and display it on the screen. 
   - Users can save the current drawing.
